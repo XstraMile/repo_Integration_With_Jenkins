@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, CI/CD!\n");
+    printf("Hello, CI/CD for Jenkins !\n");
     return 0;
 }
 
